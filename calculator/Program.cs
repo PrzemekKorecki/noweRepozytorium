@@ -17,6 +17,7 @@ namespace calculator
                 Console.WriteLine("2. Odejmowanie");
                 Console.WriteLine("3. Mnozenie");
                 Console.WriteLine("4. Dzielenie");
+                Console.WriteLine("lubie placki");
                 int menuOption = Convert.ToInt32(Console.ReadLine());
                 if (menuOption == 0)
                     break;
