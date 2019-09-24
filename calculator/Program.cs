@@ -21,6 +21,8 @@ namespace calculator
                 int menuOption = Convert.ToInt32(Console.ReadLine());
                 if (menuOption == 0)
                     break;
+
+                Console.WriteLine("no i sie zmienilo");
             }
         }
     }
